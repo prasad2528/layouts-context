@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.controller-container {
+  height: 200px;
+  background-color: #475569;
+  padding: 10px 0px 20px 100px;
+  color: #fff;
+}
+.inputs {
+  margin-right: 20px;
+}
